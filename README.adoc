@@ -1,0 +1,3 @@
+= simple blender addon that runs pack external data and then unpacks it locally 
+
+… so that we have it next to blend file, to be imported into git, etc. with the rest of the repo.
